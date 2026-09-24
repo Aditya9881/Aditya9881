@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aditya Sonkar
+# Hey, I'm Aditya Sonkar
 
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast | Product Builder | Robotics Enthusiast
 
@@ -141,41 +141,48 @@ Potential use cases include:
 
 **Tech:** Python • YOLO • Computer Vision • Machine Learning
 
----
+# 🚀 Other Featured Projects
 
-# 💻 Other Projects
+## 💰 Spendora – Expense Tracker
 
-### 🎵 Spotify Clone
+A modern personal **expense tracking and financial management application** designed to help users monitor, organize and understand their daily spending.
 
-Music streaming interface inspired by modern music platforms.
+### ✨ Key Features
 
-**Tech:** React • JavaScript • CSS • REST APIs
+- 💸 Add & manage daily expenses
+- 📊 Expense analytics and insights
+- 🗂️ Category-based expense tracking
+- 📅 Track spending over time
+- 💰 Income & expense management
+- 📈 Financial overview dashboard
+- 🔐 Secure user authentication
+- 📱 Responsive user experience
 
----
-
-### 🛒 IoT E-Commerce Platform
-
-An e-commerce platform integrating IoT-oriented concepts with web technologies.
-
-**Tech:** MERN Stack • IoT
-
----
-
-### 🤖 AI Shopping Assistant
-
-An intelligent shopping assistant concept designed to help users discover and interact with products using AI.
-
-**Focus:** AI • Recommendation • E-Commerce • Full Stack
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
 ---
 
-### 🎥 Video Authentication System
+## ♻️ Kabadiwala Connect
 
-A web-based authentication project exploring video-based user verification.
+A digital platform designed to **connect local Kabadiwalas and waste collectors with authorized recyclers**, helping create a more organized and traceable waste-management ecosystem.
 
-**Tech:** Django • Python • Authentication
+The project is designed around the principles of India's **E-Waste (Management) Rules, 2022** and the CPCB's EPR framework, which aims to channel e-waste toward environmentally sound recycling and formal recycling networks. :contentReference[oaicite:1]{index=1}
 
----
+### 🌱 Core Concept
+
+```text
+Local Citizens
+      ↓
+   Kabadiwala
+      ↓
+ Collection & Segregation
+      ↓
+ Authorized Recycler
+      ↓
+ Recycling / Processing
+      ↓
+ Government / Compliance Ecosystem
 
 # 🛠️ Technical Skills
 
