@@ -4,7 +4,7 @@
 
 I'm a **Computer Science Engineering student** passionate about building real-world products that solve practical problems.
 
-I work across **Full-Stack Development, Mobile Development, AI/ML, Data Science, Backend Engineering, and Robotics**.
+I work across **Full-Stack Development, Mobile Development, AI/ML, Backend Engineering, and Robotics**.
 
 > 💡 I don't just build projects for learning — I like turning ideas into usable products.
 
@@ -63,30 +63,6 @@ A technology platform for gym owners, trainers and members.
 
 ---
 
-## 🧾 ZIDPOS – Smart Shop Billing System
-
-A retail POS ecosystem designed for small and medium-sized businesses.
-
-### Platform
-
-- 📱 Android POS Application
-- 📱 Owner Mobile Application
-- 🌐 Web Admin Dashboard
-
-### Features
-
-- 🧾 Billing & Invoicing
-- 📦 Inventory Management
-- 🏪 Multi-Shop Support
-- 👥 Role-Based Access
-- 📴 Offline Mode
-- 💰 GST / Tax Support
-- 📊 Business Analytics
-- 👤 Owner / Manager / Cashier / Staff roles
-
-**Tech:** React Native • Node.js • Express.js • MongoDB • REST APIs
-
----
 
 # 🧠 Featured Projects
 
@@ -130,38 +106,6 @@ A robotics project focused on autonomous garbage collection and navigation.
 🥇 1st Prize – Technical Robo Race (College Level)  
 🥉 3rd Position – Zonal Level
 
----
-
-## 🧮 AI-Powered Fitness Tracker
-
-### ML-Based Calorie Burn Prediction System
-
-A machine learning application that predicts calorie expenditure based on user activity and physiological parameters.
-
-### Input Parameters
-
-- Age
-- Gender
-- BMI
-- Exercise Duration
-- Heart Rate
-- Body Temperature
-
-### ML Model
-
-**Random Forest Regressor**
-
-- `n_estimators = 1000`
-- `max_depth = 6`
-- R² Score: ~0.95
-
-### Deployment
-
-Built and deployed using **Streamlit**.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Streamlit • Joblib
-
----
 
 ## 🏥 Pharmacogenomics Clinical Decision Support System
 
