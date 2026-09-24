@@ -1,59 +1,59 @@
 # Hey, I'm Aditya Sonkar
 
-### 🚀 Full-Stack Developer | AI/ML Enthusiast | Product Builder | Robotics Enthusiast
+### Full-Stack Developer | AI/ML Enthusiast | Product Builder | Robotics Enthusiast
 
 I'm a **Computer Science Engineering student** passionate about building real-world products that solve practical problems.
 
 I work across **Full-Stack Development, Mobile Development, AI/ML, Backend Engineering, and Robotics**.
 
-> 💡 I don't just build projects for learning — I like turning ideas into usable products.
+> I don't just build projects for learning — I like turning ideas into usable products.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Science Engineering student
-- 💻 Full-Stack Developer specializing in the **MERN Stack**
-- 📱 Building mobile applications with **React Native**
-- 🤖 Exploring **AI, Machine Learning, Computer Vision & Robotics**
-- 🧠 Practicing **Data Structures & Algorithms in Java**
-- 🏗️ Interested in **System Design, Backend Architecture & Scalability**
-- 🚀 Building and experimenting with real-world products
-- 👨‍💼 Founder & Builder of **ZIDFIT – AI Gym Manager**
-- 🛠️ Interested in solving real-world problems through technology
-- 🌱 Currently improving my skills in **AI/ML, System Design, Cloud & scalable backend systems**
+- Computer Science Engineering student
+- Full-Stack Developer specializing in the **MERN Stack**
+- Building mobile applications with **React Native**
+- Exploring **AI, Machine Learning, Computer Vision & Robotics**
+- Practicing **Data Structures & Algorithms in Java**
+- Interested in **System Design, Backend Architecture & Scalability**
+- Building and experimenting with real-world products
+- Founder & Builder of **ZIDFIT – AI Gym Manager**
+- Interested in solving real-world problems through technology
+- Currently improving my skills in **AI/ML, System Design, Cloud & scalable backend systems**
 
 ---
 
-# 🚀 What I'm Currently Working On
+# What I'm Currently Working On
 
-### 🏋️ ZIDFIT – AI Gym Manager
+### ZIDFIT – AI Gym Manager
 
 A complete gym management ecosystem designed to simplify gym operations.
 
 **Core features include:**
 
-- 📋 Membership Management
-- 📲 QR-based Attendance
-- 👥 Role-Based Access
-- 👨‍🏫 Trainer Management
-- 📊 Gym Owner Dashboard
-- 💳 Membership & Payment Management
-- 🤖 AI-powered fitness features
-- 👁️ AI Vision based Form Correction
-- 🔐 Authentication & Authorization
-- 📱 Mobile application development
-- 🌐 Web-based management platform
+- Membership Management
+- QR-based Attendance
+- Role-Based Access
+- Trainer Management
+- Gym Owner Dashboard
+- Membership & Payment Management
+- AI-powered fitness features
+- AI Vision based Form Correction
+- Authentication & Authorization
+- Mobile application development
+- Web-based management platform
 
 **Tech:** MERN Stack • React Native • Firebase Authentication • MongoDB • AI/Computer Vision
 
-🌐 **Website:** https://zidfit.in
+**Website:** https://zidfit.in
 
 ---
 
-# 💼 Products & Platforms
+# Products & Platforms
 
-## 🏋️ ZIDFIT – AI Gym Manager
+## ZIDFIT – AI Gym Manager
 
 > Your Fitness. Your Zid.
 
@@ -63,22 +63,21 @@ A technology platform for gym owners, trainers and members.
 
 ---
 
+# Featured Projects
 
-# 🧠 Featured Projects
-
-## ❄️ SheetKosh – Cold Storage & Agritech Platform
+## SheetKosh – Cold Storage & Agritech Platform
 
 An integrated digital platform designed around India's post-harvest cold-storage ecosystem.
 
 ### Key Areas
 
-- 👨‍🌾 Farmer Management
-- 🏢 Cold Storage / Warehouse Management
-- 📦 Inventory & Storage Tracking
-- 🛒 Agritech Marketplace
-- 📊 Management Dashboards
-- 🔐 Authentication & Role Management
-- 🤖 AI-driven features
+- Farmer Management
+- Cold Storage / Warehouse Management
+- Inventory & Storage Tracking
+- Agritech Marketplace
+- Management Dashboards
+- Authentication & Role Management
+- AI-driven features
 
 **Tech Stack:**
 
@@ -86,7 +85,7 @@ An integrated digital platform designed around India's post-harvest cold-storage
 
 ---
 
-## 🤖 Autonomous Garbage Collection Robot
+## Autonomous Garbage Collection Robot
 
 A robotics project focused on autonomous garbage collection and navigation.
 
@@ -102,12 +101,13 @@ A robotics project focused on autonomous garbage collection and navigation.
 - 2-DOF Robotic Arm
 - Computer Vision
 
-🏆 **Achievement:**  
-🥇 1st Prize – Technical Robo Race (College Level)  
-🥉 3rd Position – Zonal Level
+**Achievement:**  
+**1st Prize** – Technical Robo Race (College Level)  
+**3rd Position** – Zonal Level
 
+---
 
-## 🏥 Pharmacogenomics Clinical Decision Support System
+## Pharmacogenomics Clinical Decision Support System
 
 A healthcare-oriented project exploring how genetic information and drug-response data can assist clinical decision-making.
 
@@ -123,53 +123,53 @@ A healthcare-oriented project exploring how genetic information and drug-respons
 
 ---
 
-## 🛣️ SARTHI – Smart Urban Infrastructure & Safety
+## SARTHI – Smart Urban Infrastructure & Safety
 
 A computer-vision based smart-city concept designed to detect road infrastructure problems.
 
 ### Concept
 
-📱 Smartphone Sensors + 📷 Computer Vision + 🤖 AI
+Smartphone Sensors + Computer Vision + AI
 
 Potential use cases include:
 
-- 🕳️ Pothole Detection
-- 🛣️ Road Condition Analysis
-- 📍 Location Mapping
-- 🏛️ Municipal Dashboard
-- 📊 Infrastructure Monitoring
+- Pothole Detection
+- Road Condition Analysis
+- Location Mapping
+- Municipal Dashboard
+- Infrastructure Monitoring
 
 **Tech:** Python • YOLO • Computer Vision • Machine Learning
 
-# 🚀 Other Featured Projects
+# Other Featured Projects
 
-## 💰 Spendora – Expense Tracker
+## Spendora – Expense Tracker
 
 A modern personal **expense tracking and financial management application** designed to help users monitor, organize and understand their daily spending.
 
-### ✨ Key Features
+### Key Features
 
-- 💸 Add & manage daily expenses
-- 📊 Expense analytics and insights
-- 🗂️ Category-based expense tracking
-- 📅 Track spending over time
-- 💰 Income & expense management
-- 📈 Financial overview dashboard
-- 🔐 Secure user authentication
-- 📱 Responsive user experience
+- Add & manage daily expenses
+- Expense analytics and insights
+- Category-based expense tracking
+- Track spending over time
+- Income & expense management
+- Financial overview dashboard
+- Secure user authentication
+- Responsive user experience
 
 **Tech Stack:**  
 `React` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
 ---
 
-## ♻️ Kabadiwala Connect
+## Kabadiwala Connect
 
 A digital platform designed to **connect local Kabadiwalas and waste collectors with authorized recyclers**, helping create a more organized and traceable waste-management ecosystem.
 
-The project is designed around the principles of India's **E-Waste (Management) Rules, 2022** and the CPCB's EPR framework, which aims to channel e-waste toward environmentally sound recycling and formal recycling networks. :contentReference[oaicite:1]{index=1}
+The project is designed around the principles of India's **E-Waste (Management) Rules, 2022** and the CPCB's EPR framework, which aims to channel e-waste toward environmentally sound recycling and formal recycling networks.
 
-### 🌱 Core Concept
+### Core Concept
 
 ```text
 Local Citizens
@@ -183,10 +183,11 @@ Local Citizens
  Recycling / Processing
       ↓
  Government / Compliance Ecosystem
+```
 
-# 🛠️ Technical Skills
+# Technical Skills
 
-## 👨‍💻 Programming Languages
+## Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -196,7 +197,7 @@ Local Citizens
 
 ---
 
-## 🌐 Frontend Development
+## Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -210,7 +211,7 @@ Local Citizens
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -231,7 +232,7 @@ Local Citizens
 
 ---
 
-## 🗄️ Databases
+## Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -251,7 +252,7 @@ Local Citizens
 
 ---
 
-# 🤖 AI / ML / Data Science
+# AI / ML / Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -274,7 +275,7 @@ Local Citizens
 
 ---
 
-# 🤖 Robotics & Hardware
+# Robotics & Hardware
 
 - Raspberry Pi 5
 - Arduino UNO
@@ -290,7 +291,7 @@ Local Citizens
 
 ---
 
-# 🧠 Data Structures & Algorithms
+# Data Structures & Algorithms
 
 Currently practicing DSA primarily using **Java**.
 
@@ -318,7 +319,7 @@ Currently practicing DSA primarily using **Java**.
 
 ---
 
-# 🏗️ System Design & Engineering
+# System Design & Engineering
 
 Currently improving knowledge in:
 
@@ -336,7 +337,7 @@ Currently improving knowledge in:
 
 ---
 
-# ☁️ Cloud & DevOps
+# Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -358,7 +359,7 @@ Currently improving knowledge in:
 
 ---
 
-# 🧰 Development Tools
+# Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -369,25 +370,25 @@ Currently improving knowledge in:
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
-🥇 **1st Prize** – Technical Robo Race, College Level
+**1st Prize** – Technical Robo Race, College Level
 
-🥉 **3rd Position** – Technical Robo Race, Zonal Level
+**3rd Position** – Technical Robo Race, Zonal Level
 
-🥇 **1st Prize** – Engineering Day Poster Making
+**1st Prize** – Engineering Day Poster Making
 
-🏆 Selected for **IEEE Student Branch**
+Selected for **IEEE Student Branch**
 
-👨‍💼 Selected for leadership responsibilities in **IEEE Student Branch**
+Selected for leadership responsibilities in **IEEE Student Branch**
 
-🚀 Building real-world products and applications beyond academic projects
+Building real-world products and applications beyond academic projects
 
 ---
 
-# 💼 Experience & Exposure
+# Experience & Exposure
 
-### 🤖 Kalam Pragati MakeX – Autonomous Robot Internship
+### Kalam Pragati MakeX – Autonomous Robot Internship
 
 Worked on autonomous robotics and problem-solving using hardware, sensors, computer vision and robotic systems.
 
@@ -402,7 +403,7 @@ Worked on autonomous robotics and problem-solving using hardware, sensors, compu
 
 ---
 
-### 🏢 Innovation Hub, Uttar Pradesh
+### Innovation Hub, Uttar Pradesh
 
 Worked on a **Cold Storage & Agritech ecosystem** focused on integrating technology into post-harvest agricultural infrastructure.
 
@@ -419,7 +420,7 @@ Worked on a **Cold Storage & Agritech ecosystem** focused on integrating technol
 
 ---
 
-# 🎯 What I Want to Build
+# What I Want to Build
 
 I'm particularly interested in building products at the intersection of:
 
@@ -446,3 +447,4 @@ Real World
  ├── FitnessTech
  ├── Smart Cities
  └── Robotics
+```
