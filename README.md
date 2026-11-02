@@ -1,5 +1,5 @@
 # Hey, I'm Aditya Sonkar
- 
+
 ### Full-Stack Developer | AI/ML Enthusiast | Product Builder | Robotics Enthusiast
 
 I'm a **Computer Science Engineering student** passionate about building real-world products that solve practical problems.
